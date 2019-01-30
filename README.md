@@ -1,1 +1,1 @@
-This is a Simple program to count the number of files and directories.
+This is a repository containing cool python codes,snippets and scripts.
