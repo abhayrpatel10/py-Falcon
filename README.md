@@ -1,0 +1,1 @@
+This is a Simple program to count the number of files and directories.
